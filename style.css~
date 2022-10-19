@@ -1,0 +1,37 @@
+.page {
+	background-color: beige;
+}
+
+.photo {
+	position: absolute;
+	margin-left: 1000px;
+	margin-top: 20px;
+}
+
+.profil {
+	margin-left: 20px;
+}
+
+.exp_pro {
+	margin-left: 20px;
+}
+
+.interets {
+	margin-left: 20px;
+}
+
+.langues {
+	margin-left: 20px;
+}
+
+.formation {
+	margin-left: 20px;
+}
+
+.languages {
+	margin-left: 20px;
+}
+
+.contact {
+	margin-left: 20px;
+}
